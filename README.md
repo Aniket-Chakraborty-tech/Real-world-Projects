@@ -93,7 +93,7 @@ java ContactManagementTest
 
 👤 Author
 --------
-The Generic Codebase project is maintained by [Your Name].
+The Generic Codebase project is maintained by Aniket Chakraborty.
 
 📝 License
 --------
